@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "871018467627",
+    "firebase_url": "https://studentdiss.firebaseio.com",
+    "project_id": "studentdiss",
+    "storage_bucket": "studentdiss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871018467627:android:209289a2a5d8bf05",
+        "android_client_info": {
+          "package_name": "knd.com.studentdiss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871018467627-ll1rlmbuj37nv6n6m9nmkosl8vu4mtn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3NdX7ri2OxQI9ldScIJZaGPGuZXbVLYY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
